@@ -1,0 +1,49 @@
+﻿@*@model Schulungsbeurteilung.Models.TrainingCourse*@
+@{
+    ViewBag.Title = "Schulung bearbeiten";
+}
+
+@*@section styles {
+    <link rel="stylesheet" href="~/wwwroot/lib/font-awesome/css/all.min.css">
+}*@
+
+<section class="pt-3 pb-2 px-2">
+    @using (Html.BeginForm("Update", "Courses", FormMethod.Post, new { @class = "m-4" }))
+    {
+        @*@Html.HiddenFor(course => course.Id);
+
+        <div class="mb-3">
+            @Html.LabelFor(c => c.Name, "Name der Schulung", new { @class = "form-label" })
+            @Html.TextBoxFor(c => c.Name, new { @class = "form-control" })
+        </div>
+        <div class="mb-3">
+            @Html.LabelFor(c => c.Creator, "Ersteller", new { @class = "form-label" })
+            @Html.TextBoxFor(c => c.Creator, new { @class = "form-control" })
+        </div>
+        <div class="mb-3">
+            @Html.LabelFor(c => c.Goal, "Ziel", new { @class = "form-label" })
+            @Html.TextBoxFor(c => c.Goal, new { @class = "form-control" })
+        </div>
+        <div class="mb-3">
+            @Html.LabelFor(c => c.TrainerName, "Organisation/TrainerIn", new { @class = "form-label" })
+            @Html.TextBoxFor(c => c.TrainerName, new { @class = "form-control" })
+        </div>*@
+        <div class="mb-3">
+            <b>Typ</b>
+            <select name="reise" size="1">
+            <option>Unterweisung</option>
+            </select>
+        </div> 
+        <div class="mb-3">   
+            <div class="float-end">
+                <button type="submit" class="btn btn-primary mr-2">
+                    <span class="far fa-save"></span> Veröffentlichen
+
+                </button>
+                <button type="submit"class="btn btn.primary mr-2">
+                     <i class="fa-solid fa-eye"></i>
+                </button>
+            </div>
+        </div>
+    }
+</section>

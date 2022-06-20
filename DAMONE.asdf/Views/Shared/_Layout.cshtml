@@ -1,0 +1,102 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - DAMONE.Schulungstool</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/DAMONE.asdf.styles.css" asp-append-version="true" />
+
+</head>
+<body>
+    
+       <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">DAMONE.asdf</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="AddSchulungen">Schulung hinzufügen</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="SeeSchulungen">Schulung einsehen</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="AddSignature">Unterschrift hinzufügen</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="AddPowerPoint">PowerPoint hinzufügen</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <header>
+        <div class="jumbotron header">
+            <div class="row align-items-end">
+                <img style="margin:0rem 3rem" class="img-fluid col-2" src="~/Images/dam_squares.png"/>
+                <div class="col d-flex justify-content-begin align-items-center">
+                    <h2 class="display-2">DAM Awarness Training</h2>
+                </div>
+
+                <img style="margin:0rem 1rem" class="img-fluid col-2" src="~/Images/dam_logo.svg"/>
+            </div>
+        </div>
+    </header>
+    
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+  <div class="jumbotron footer container-fluid">
+            <div class="row">
+                <div class="col-12">
+                    <div class="row justify-content-center">
+                        <div class="d-none d-lg-block">
+                            <h3>DAM - Dynamic Assembly Machines</h3>
+                        </div>
+                        <div class="col-lg d-lg-none">
+                            <h4>DAM</h4>
+                        </div>
+                        <div class="col-lg d-none d-sm-block d-lg-none">
+                            <h5>Dynamic Assembly Machines</h5>
+                        </div>
+                    </div>
+                    <div class="row justify-content-center">
+                        <div class="d-none d-lg-block">
+                            <h5>Tel.: +43 3112 51 888 – 0 | office@d-a-m.cc | Rupert Gutmann Straße 1 | 8200 Gleisdorf | Austria</h5>
+                        </div>
+                        <div class="col-6 d-lg-none">
+                            <p>Tel.: +43 3112 51 888 – 0</p>
+                        </div>
+                        <div class="col-6 d-lg-none">
+                            <p>office@d-a-m.cc</p>
+                        </div>
+                        <div class="col-6 d-lg-none">
+                            <p>Rupert Gutmann Straße 1</p>
+                        </div>
+                        <div class="col-6 d-lg-none">
+                            <p>A-8200 Gleisdorf</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

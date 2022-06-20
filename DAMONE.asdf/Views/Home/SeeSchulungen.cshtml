@@ -1,0 +1,67 @@
+﻿@*@model IEnumerable<Schulungsbeurteilung.Models.TrainingCourse>*@
+@{
+    ViewBag.Title = "Schulungen";
+}
+
+@*@section styles {
+    <link rel="stylesheet" href="~/wwwroot/lib/font-awesome/css/all.min.css">
+    <link rel="stylesheet" href="~/wwwroot/css/Courses/Index.css">
+}*@
+
+<div class="mx-4 my-2">
+    <h4 class="mb-2">Angelegte Schulungen</h4>
+    <table class="table table-striped table-hover">
+        <thead class="table-light">
+            <tr>
+                <th scope="col">IC</th>
+                <th scope="col">Name</th>
+                <th scope="col">Durchf&uumlhren bis</th>
+                <th scope="col">Duchgef&uumlrt</th>
+                <th scope="col">Link</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+ @*       <tbody>
+            @foreach (var course in Model)
+            {
+                <tr>
+                    <th scope="row">@course.Id</th>
+                    <td>@course.Title</td>
+                    <td class="abbreviate-text">@course.Content</td>
+                    <td class="abbreviate-text">@course.Goal</td>
+                    <td>@course.TrainerName</td>
+                    <td>@course.DateTime.ToString("dd.MM.yyyy HH:mm")</td>
+                    <td>@course.Duration.ToString() </td>
+                    <td class="text-center">
+                        <div class="row justify-content-center align-items-center">
+                            <div class="col-2">
+                                <a href="@Url.Action("Edit", "Courses", new { id = course.Id })"
+                                   data-bs-toggle="tooltip" data-bs-placement="bottom" title="Bearbeiten">
+                                    <span class="fas fa-edit"></span>
+                                </a>
+                            </div>
+                            <div class="col-2">
+                                <a href="@Url.Action("ShowAllFromCourse", "Feedbacks", new { courseId = course.Id })"
+                                   data-bs-toggle="tooltip" data-bs-placement="bottom" title="Zeige Feedbacks">
+                                    <span class="fas fa-inbox"></span>
+                                </a>
+                            </div>
+                            <div class="col-2">
+                                <a href="@Url.Action("Create", "Feedbacks", new { courseId = course.Id })"
+                                   data-bs-toggle="tooltip" data-bs-placement="bottom" title="Erstelle Feedback">
+                                    <span class="fas fa-link"></span>
+                                </a>
+                            </div>
+                        </div>  
+                    </td>
+                </tr>
+            }
+        </tbody>*@
+    </table>
+
+@*    @using (Html.BeginForm("Add", "Courses", FormMethod.Post))
+    {
+        <button type="submit" class="btn btn-primary mx-4 my-2 float-end">Schulung hinzufügen</button>
+    }*@
+</div>

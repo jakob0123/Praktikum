@@ -1,0 +1,95 @@
+﻿  
+@{
+    var Error = ViewData["Error"] as string;
+    var showSubmit = ViewData["showSubmit"] as string;
+    var UserName = ViewData["UserName"] as string;
+
+
+
+    ViewData["Title"] = "DAM Awarness Training";
+
+}
+<html>
+<body>
+    <div style="height:150px;">
+
+    </div>
+    <div>
+        <h3>Login </h3>
+
+        <table class="table table-borderless">
+            @using (Html.BeginForm("LogIn", "Home", FormMethod.Post))
+            {
+                <tr>
+                    <td class="col-2">Benutzername: </td>
+                    <td class="col-3"><input type="text" value="@UserName" name="UserName" placeholder="Vorname Nachname" class="form-control" autofocus /></td>
+                    <td class="col-7"></td>
+                </tr>
+                <tr>
+                    <td>Passwort: </td>
+                    <td><input type="password" name="Password" placeholder="Passwort" class="form-control" /></td>
+                </tr>
+                @if (showSubmit == "showSubmit")
+                {
+                    <tr>
+                        <td>Passwortbestätigung: </td>
+                        <td><input type="password" name="Password2" placeholder="Bestätigen" class="form-control" /></td>
+                    </tr>
+                }
+                <tr>
+                    <td>&nbsp;</td>
+                    <td> <input type="submit" value="Login" class="btn btn-outline-primary" /></td>
+                </tr>
+
+            }
+        </table>
+
+
+        @if (Error == "password2")
+        {
+            <div class="alert alert-danger" role="alert">
+                Passwörter stimmen nicht überein!
+            </div>
+        }
+        @if (Error == "empty")
+        {
+            <div class="alert alert-danger" role="alert">
+                Bitte Felder vollständig ausfüllen!
+            </div>
+        }
+        @if (Error == "UserExists")
+        {
+            <div class="alert alert-danger" role="alert">
+                Benutzer existiert bereits!
+            </div>
+        }
+        @if (Error == "dbError")
+        {
+            <div class="alert alert-danger" role="alert">
+                Person wurde falsch angelegt! Entweder existiert die Peron in PersonDB nicht oder die Id stimmt nicht überein.
+            </div>
+        }
+        @if (Error == "password")
+        {
+            <div class="alert alert-danger" role="alert">
+                Passwort stimmt mit Benutzernamen nicht überein!
+            </div>
+        }
+        @if (Error == "format")
+        {
+            <div class="alert alert-danger" role="alert">
+                Der Benutzername wurde in einem Falschen format angegeben
+            </div>
+        }
+        @if (Error == "UserCheckOut")
+        {
+            <div class="alert alert-danger" role="alert">
+                Fehler beim Abmelden des Benutzers!
+            </div>
+        }
+    </div>
+    <div style="height:190px;">
+
+    </div>
+</body>
+</html>
