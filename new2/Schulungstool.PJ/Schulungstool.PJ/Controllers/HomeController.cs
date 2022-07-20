@@ -105,7 +105,7 @@ namespace Schulungstool.PJ.Controllers
             string schulungscreator = Schulung.Schulungscreator;
             string schulungsname = Schulung.Schulungsname;
             string typ = Schulung.Typ;
-
+            
             return View();
         }
         #endregion

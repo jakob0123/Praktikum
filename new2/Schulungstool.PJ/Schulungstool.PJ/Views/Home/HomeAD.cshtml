@@ -8,6 +8,9 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <script>
+        request.getRealPath(request.getParameter("datei");
+    </script>
     <script src="~/wwwroot/js/Select.js"></script>
     <link rel="stylesheet" href="~/wwwroot/css/bootstrap.css">
     <style>
@@ -67,6 +70,7 @@
     </style>
 </head>
 <body>
+
     @using (Html.BeginForm("HomeAD", "Home", FormMethod.Post))
     {
         <table cellpadding="0" cellspacing="0">
@@ -89,8 +93,8 @@
                 <td>Typ der Schulung </td>
                 <td>
                     @Html.DropDownListFor(m => m.Typ, new List<SelectListItem>
-                   { new SelectListItem{Text="Schulung", Value="S"},
-                     new SelectListItem{Text="Unterweisung", Value="V"}}, "Please select")
+                   { new SelectListItem{Text="Schulung"},
+                     new SelectListItem{Text="Unterweisung"}}, "Please select")
                 </td>
             </tr>
             <tr>
@@ -173,43 +177,43 @@
     </table>
     <hr />
     @*@using (Html.BeginForm("Index", "Home", FormMethod.Post))
-    {
-        <table cellpadding="0" cellspacing="0">
-            <tr>
-                <th colspan="2" align="center">Person Details</th>
-            </tr>
-            <tr>
-                <td>PersonId: </td>
-                <td>
-                    @Html.TextBoxFor(m => m.PersonId)
-                </td>
-            </tr>
-            <tr>
-                <td>Name: </td>
-                <td>
-                    @Html.TextBoxFor(m => m.Name)
-                </td>
-            </tr>
-            <tr>
-                <td>Gender: </td>
-                <td>
-                    @Html.DropDownListFor(m => m.Gender, new List<SelectListItem>
-                   { new SelectListItem{Text="Male", Value="M"},
-                     new SelectListItem{Text="Female", Value="F"}}, "Please select")
-                </td>
-            </tr>
-            <tr>
-                <td>City: </td>
-                <td>
-                    @Html.TextBoxFor(m => m.City)
-                </td>
-            </tr>
-            <tr>
-                <td></td>
-                <td><input type="submit" value="Submit" /></td>
-            </tr>
-        </table>
-    }*@
+        {
+            <table cellpadding="0" cellspacing="0">
+                <tr>
+                    <th colspan="2" align="center">Person Details</th>
+                </tr>
+                <tr>
+                    <td>PersonId: </td>
+                    <td>
+                        @Html.TextBoxFor(m => m.PersonId)
+                    </td>
+                </tr>
+                <tr>
+                    <td>Name: </td>
+                    <td>
+                        @Html.TextBoxFor(m => m.Name)
+                    </td>
+                </tr>
+                <tr>
+                    <td>Gender: </td>
+                    <td>
+                        @Html.DropDownListFor(m => m.Gender, new List<SelectListItem>
+                       { new SelectListItem{Text="Male", Value="M"},
+                         new SelectListItem{Text="Female", Value="F"}}, "Please select")
+                    </td>
+                </tr>
+                <tr>
+                    <td>City: </td>
+                    <td>
+                        @Html.TextBoxFor(m => m.City)
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td><input type="submit" value="Submit" /></td>
+                </tr>
+            </table>
+        }*@
     @*<form name="form1" method="post" enctype="multipart/form-data" action="HomeAD">
             <div>
                 <label for="caption">Image Caption</label>
