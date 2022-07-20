@@ -89,7 +89,7 @@ namespace Schulungstool.PJ.Controllers
                 link.Add("", "");
 
                 ViewData["linQ"] = link;
-                return View("HomeAD");
+                return View();
             }
         }
         #endregion
@@ -109,12 +109,55 @@ namespace Schulungstool.PJ.Controllers
             return View();
         }
         #endregion
-
         //[HttpPost]
         //public ActionResult HomeAD(string FileName, string Schulungscreator, string Schulungsname)
         //{
         //    //ViewData["FileName"] = FileName;
         //    return View();
         //}
+        [HttpPost]
+        public ActionResult UploadContent(string folderName)
+        {
+            List<string> picturelist = new List<string>();
+            Random rd = new Random();
+            int irgendeineId = rd.Next(0, 1000000);
+
+            string fileName = Request.Headers["file-name"];
+            if (string.IsNullOrWhiteSpace(fileName) == false)
+            {
+                string targetPath = Path.Combine(System.Web.HttpContext.Current.Server.MapPath("~/wwwroot/Images"), irgendeineId.ToString());//"C:\\Users\\rene.jahn\\Desktop\\Praktikant\\Schulungstool.PJ\\Schulungstool.PJ\\App_Data\\EntryContents\\Content_1.pptx";//Path.Combine(System.Web.HttpContext.Current.Server.MapPath("~/App_Data/EntryContents"), "Content_" + 1);
+                using (var fileStream = System.IO.File.Create(targetPath + ".pptx"))
+                {
+                    Request.InputStream.CopyTo(fileStream);
+                    using (var pptxDoc = Presentation.Open(fileStream))
+                    {
+                        string result = Path.GetFileName(pptxDoc.ToString());
+                        pptxDoc.ChartToImageConverter = new ChartToImageConverter();
+                        pptxDoc.ChartToImageConverter.ScalingMode = Syncfusion.OfficeChart.ScalingMode.Best;
+                        for (int i = 0; i < pptxDoc.Slides.Count(); i++)
+                        {
+                            //Converts the first slide into image
+                            var image = pptxDoc.Slides[i].ConvertToImage(Syncfusion.Drawing.ImageType.Metafile);
+                            //Define Foldername
+                            string slideName = "slide" + i.ToString() + ".png";
+                            //Create directory
+                            string path = "/wwwroot/Images/" + result + "/";
+                            DirectoryInfo di = Directory.CreateDirectory(path);
+                            //Saves the image as file
+                            image.Save("/wwwroot/Images/" + result + "/" + slideName);
+                            picturelist.Add("/wwwroot/Images/" + result + "/" + slideName);
+                        }
+                        pptxDoc.Close();
+
+                    }
+                }
+            }
+            ViewData["pictureList"] = picturelist;
+            Dictionary<string, string> link = new Dictionary<string, string>();
+            link.Add(@"https://www.youtube.com/watch?v=pa6scmN9bQc", "Folie1");
+            ViewData["folderName"] = folderName;
+            //return View("AddSchulungen");
+            return View(folderName);
+        }
     }
 }    

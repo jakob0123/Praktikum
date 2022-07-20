@@ -145,9 +145,6 @@
     <Compile Include="App_Data\FilterConfig.cs" />
     <Compile Include="App_Data\RouteConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
-    <Compile Include="Controllers\HttpResponseException.cs" />
-    <Compile Include="Controllers\MultipartFormDataStreamProvider.cs" />
-    <Compile Include="Controllers\Upload.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -2389,6 +2386,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Start\" />
+    <Folder Include="DBConnection\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
