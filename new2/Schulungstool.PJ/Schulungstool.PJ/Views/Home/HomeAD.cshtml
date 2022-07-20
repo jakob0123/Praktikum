@@ -1,5 +1,14 @@
 ﻿@model Schulungstool.PJ.Models.Formula.SchulungsModel
+@{
+    ViewBag.Title = "Schulung bearbeiten";
+    var picturelist = ViewData["picturelist"] as List<string>;
+    var folderName = ViewData["folderName"] as string;
+    if (folderName == null)
+    {
+        folderName = "nix";
+    }
 
+}
 @*@{
         var filename = ViewData["FileName"];
         var schulungcreator = ViewData["Schulungname"];
@@ -8,12 +17,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <script>
-        function myFunction() {
-            var x = document.getElementById("myFile").name;
-            document.getElementById("demo").innerHTML = x;
-        }
-    </script>
+    @section scripts{
+        <script src="~/wwwroot/js/ConfigEdit.js"></script>
+    }
     <script src="~/wwwroot/js/getfileName.js"></script>
     <script src="~/wwwroot/js/Select.js"></script>
     <link rel="stylesheet" href="~/wwwroot/css/bootstrap.css">
@@ -74,8 +80,7 @@
     </style>
 </head>
 <body>
-    <button onclick="myFunction()">Try it</button>
-    <p id="demo"></p>
+ 
     @using (Html.BeginForm("HomeAD", "Home", FormMethod.Post))
     {
         <table cellpadding="0" cellspacing="0">
@@ -104,19 +109,25 @@
             </tr>
             <tr>
                 <td>
-                    <input type="file" name="filename" id="myFile">
+
 
                 </td>
             </tr>
 
             <tr>
                 <td>&nbsp;</td>
-                <td><input type="submit" value="Submit" /></td>
+                <button type="button" title="Schulung auswählen" onclick="document.getElementById('addContentSelector').click();">
+                    <i class="fas fa-plus-circle"></i>
+                    Anhang hinzufügen
+
+                </button>
+                <td><input type="submit" value="Submit" onclick="location.href = '@Url.Action("HomeAD", "Home", new { picturelist = picturelist})'" /></td>
             </tr>
         </table>
 
 
         <br />
+
         <hr />
         <table>
             <tr>
@@ -154,6 +165,20 @@
             </tr>
         </table>
         <hr />
+        <!-- Der Kodierungstyp enctype MUSS wie dargestellt angegeben werden -->
+        <!--<form enctype="multipart/form-data" action="__URL__" method="POST">-->
+        <!-- MAX_FILE_SIZE muss vor dem Datei-Eingabefeld stehen -->
+        <!--<input type="hidden" name="MAX_FILE_SIZE" value="30000" />-->
+        <!-- Der Name des Eingabefelds bestimmt den Namen im $_FILES-Array -->
+        <!--Diese Datei hochladen: <input name="userfile" type="file" />
+            <input type="submit" value="Send File" />
+        </form>-->
+        <input type="file" id="addContentSelector" style="display: none;" accept=".pptx"
+               data-upload-url="@Url.Action("UploadContent", "Home", new { folderName = "folderName"})" data-entry-id="1" data- /> <!--<== Foldername sollte irgendeine Variable werden-->
+
+        @*<button class="btn btn-primary" onclick="location.href = '@Url.Action("HomeAD", "Home", new { picturelist = picturelist})'">Load Powerpoint </button>*@
+
     }
 </body>
+
 </html>

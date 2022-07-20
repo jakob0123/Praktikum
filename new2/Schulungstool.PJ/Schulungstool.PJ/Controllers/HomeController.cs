@@ -1,4 +1,5 @@
-﻿using Syncfusion.OfficeChartToImageConverter;
+﻿using Schulungstool.PJ.Models.Formula;
+using Syncfusion.OfficeChartToImageConverter;
 using Syncfusion.Presentation;
 using System;
 using System.Collections.Generic;
@@ -6,12 +7,6 @@ using System.IO;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
-using System.Web.UI.WebControls;
-using System.Diagnostics;
-using System.Net;
-using System.Net.Http;
-using System.Threading.Tasks;
-using Schulungstool.PJ.Models.Formula;
 
 namespace Schulungstool.PJ.Controllers
 {

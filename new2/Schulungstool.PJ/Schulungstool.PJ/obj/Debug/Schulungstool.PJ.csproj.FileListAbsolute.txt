@@ -769,7 +769,6 @@ C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungsto
 C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.WebPages.resources.dll
 C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.WebPages.Deployment.resources.dll
 C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.WebPages.Razor.resources.dll
-C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.csproj.AssemblyReference.cache
 C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.csproj.CoreCompileInputs.cache
 C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.csproj.CopyComplete
 C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.dll
