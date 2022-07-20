@@ -98,6 +98,9 @@ namespace Schulungstool.PJ.Controllers
             return View("HomeAD");
         }
         #endregion
+          
+
+
 
         //[HttpPost]
         //public ActionResult HomeAD(string FileName, string Schulungscreator, string Schulungsname)
@@ -106,4 +109,4 @@ namespace Schulungstool.PJ.Controllers
         //    return View();
         //}
     }
-}
+}    
