@@ -1,0 +1,88 @@
+﻿@{
+    var pictureList = ViewData["pictureList"] as List<string>;
+    var linq = ViewData["linQ"] as Dictionary<string, string>;
+}
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <script src="~/Scripts/hallo.js"></script>
+    <style>
+        .hallolink {
+            float: right;
+        }
+
+        .container {
+            width: 100%;
+            padding-right: var(--bs-gutter-x,.75rem);
+            padding-left: var(--bs-gutter-x,.75rem);
+            margin-right: auto;
+            margin-left: auto;
+        }
+    </style>
+
+
+</head>
+<body>
+    <table>
+        <tr>
+            <td>
+                @{ int i = 1;}
+                @foreach (var element in pictureList)
+                {
+                    if (i == 1)
+                    {
+                        <div>
+                            <img class="mySlides" src="@element" style="width:100%;display:block">
+                        </div>
+
+                    }
+                    else if (i == 2)
+                    {
+                        <div>
+                            <img class="mySlides" src="@element" style="width: 100%;display:none">
+                        </div>
+                    }
+                    i = 2;
+                }
+                <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+                <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+            </td>
+            <td class="col-2">
+                @foreach (var element in linq)
+                {
+                    <table>
+                        <tr>
+                            <td>
+                                @if (element.Value == "")
+                                {
+                                    <div style="padding:30px;">
+                                        <form action="@element.Key" target="_blank">
+                                            <button type="submit" class="btn btn-outline-secondary btn-lg" disabled><i class="fa-solid fa-link "></i></button>
+                                            <label class="fs-4 ">@element.Value</label>
+                                        </form>
+                                    </div>
+                                }
+                                else
+                                {
+                                    <div style="padding:30px">
+                                        <button type=submit onClick="parent.open('@element.Key')" class="btn btn-outline-secondary btn-lg"><i class="fa-solid fa-link "></i></button>
+                                        <label class="fs-4 ">@element.Value</label>
+                                    </div>
+                                }
+                            </td>
+                        </tr>
+                    </table>
+                }
+        </tr>
+    </table>
+</body>
+
+
+
+
+
+
+
+
+

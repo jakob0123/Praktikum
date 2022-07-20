@@ -1,0 +1,218 @@
+﻿  @{ 
+      var filename = ViewData["FileName"];
+      var schulungcreator = ViewData["Schulungname"];
+      var schulungname = ViewData["Schulungscreator"];
+  }
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="~/wwwroot/js/Select.js"></script>
+    <link rel="stylesheet" href="~/wwwroot/css/bootstrap.css">
+    <style>
+        input[type=text], select {
+            width: 100%;
+            padding: 12px 20px;
+            margin: 8px 0;
+            display: inline-block;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+
+        input[type=submit]:hover {
+            background-color: #424242;
+            color: white;
+        }
+
+        input[type=submit] {
+            transition-duration: 0.4s;
+            float: right;
+        }
+
+        input[type=file] {
+        }
+
+        p.auto {
+            overflow: auto;
+            border-style: groove;
+            color: black;
+        }
+
+        p {
+            border: 2px #e7e7e7;
+            padding: 12px;
+            width: 250px;
+            height: 150px;
+            float: left;
+            margin: 5px;
+        }
+
+        select {
+            width: 100%;
+            padding: 12px 20px;
+            margin: 8px 0;
+            display: inline-block;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+
+        .gee {
+            background-color: white;
+            color: black;
+            border: 2px solid #e7e7e7;
+        }
+    </style>
+</head>
+<body>
+
+    @using (Html.BeginForm("HomeAD", "Home", FormMethod.Post))
+    {
+        <table>
+            <tr>
+                <td>
+                    <label>Name der Schulung:</label>
+                </td>
+                <td>
+                    <input type="text" name="UserName" value="@schulungname" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label>Ersteller:</label>
+                </td>
+                <td>
+                    <input type="text" name="s" value="@schulungcreator" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label>Schulung/Unterweisung auswählen:</label>
+                </td>
+                <td>
+                    <input type="file" name="ss" value="@filename" accept=".pptx" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label>Typ:</label>
+                </td>
+                <td>
+                    <select>
+                        <option>Schulung</option>
+                        <option>Unterweisung</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td> <input type="submit" value="Veröffentlichen" class="btn btn-outline-primary" /></td>
+            </tr>
+        </table>
+    }
+
+
+
+
+    <br />
+    <hr />
+    <table>
+        <tr>
+            Benutzer:
+            <td>
+                <p class="auto">
+                    <input name="whishlist[]" type="checkbox">  Krug Nikolaus <br>
+                    <input name="whishlist[]" type="checkbox">  Rene Jahn<br>
+                    <input name="whishlist[]" type="checkbox">  Beate Wallner <br>
+                    <input name="whishlist[]" type="checkbox">  Robert Fandler <br>
+                    <input name="whishlist[]" type="checkbox">  Dietmar Nederl <br>
+                    <input name="whishlist[]" type="checkbox">  Praktikant <br>
+                    <input name="whishlist[]" type="checkbox">  Krug Nikolaus <br>
+                    <input name="whishlist[]" type="checkbox">  Rene Jahn<br>
+                    <input name="whishlist[]" type="checkbox">  Beate Wallner <br>
+                    <input name="whishlist[]" type="checkbox">  Robert Fandler <br>
+                    <input name="whishlist[]" type="checkbox">  Dietmar Nederl <br>
+                    <input name="whishlist[]" type="checkbox">  Praktikant <br>
+                </p>
+            </td>
+        </tr>
+    </table>
+    <hr />
+    <form name="form1" method="post" enctype="multipart/form-data" action="HomeAD">
+        <div>
+            <label for="caption">Image Caption</label>
+            <input name="caption" type="text" />
+        </div>
+        <div>
+            <label for="image1">Image File</label>
+            <input name="image1" type="file" />
+        </div>
+        <div>
+            <input type="submit" value="Submit" />
+        </div>
+    </form>
+    @*<div class="container">
+        <div class="row">
+            <div class="align-content-lg-center">
+                <div class="input-group input-group-lg">
+                    <label>Name der Schulung:</label>
+                </div>
+            </div>
+            <div class="table-responsive-sm">
+                <div class="paddding">
+                    <input type="file" name="spind2" value="" />
+
+                </div>
+            </div>
+        </div>
+        </div>*@
+    @*<div class="container">
+            <div class="row">
+                <div class="align-content-lg-center">
+                    <div class="input-group input-group-lg">
+                        <span class="s" id="inputGroup-sizing-lg"> <label>Ersteller:</label></span>
+                    </div>
+                </div>
+                <div class="table-responsive-sm">
+                    <div class="paddding">
+                        <input type="text" name="spind" value="" />
+
+                    </div>
+                </div>
+            </div>
+        </div>*@
+    @*<div class="container">
+            <div class="row">
+                <div class="align-content-lg-center">
+                    <div class="input-group input-group-lg">
+                        <span class="s" id="inputGroup-sizing-lg"> <label>Schulung/Unterweisung auswählen:</label></span>
+                    </div>
+                </div>
+                <div class="table-responsive-sm">
+                    <div class="paddding">
+                        <input type="file" name="spind2" value="" />
+
+                    </div>
+                </div>
+            </div>
+        </div>*@
+    @*<div class="container">
+            <div class="row">
+                <div class="align-content-lg-center">
+                    <div class="input-group input-group-lg">
+                        <span class="s" id="inputGroup-sizing-lg" width="50%"><label>Typ:</label></span>
+                    </div>
+                </div>
+                <div class="table-responsive-sm">
+                    <div class="paddding">
+                        <select>
+                            <option>Schulung</option>
+                            <option>Unterweisung</option>
+                        </select>
+
+                    </div>
+                </div>
+            </div>
+        </div>*@
+</body>
+</html>

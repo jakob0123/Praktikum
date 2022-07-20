@@ -1,0 +1,782 @@
+D:\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.csproj.CoreCompileInputs.cache
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\Schulungstool.PJ.dll.config
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\Schulungstool.PJ.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\Schulungstool.PJ.pdb
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csc.exe
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csc.exe.config
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csc.rsp
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csi.exe
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csi.exe.config
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csi.rsp
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.AppContext.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Collections.Immutable.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Console.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Globalization.Calendars.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.IO.Compression.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.IO.FileSystem.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Net.Http.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Net.Sockets.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Reflection.Metadata.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.ValueTuple.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Xml.XPath.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\vbc.exe
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\vbc.exe.config
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\vbc.rsp
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\VBCSCompiler.exe
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\VBCSCompiler.exe.config
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\Antlr3.Runtime.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\Microsoft.Web.Infrastructure.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\Newtonsoft.Json.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Helpers.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Mvc.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Optimization.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Razor.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.Deployment.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.Razor.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\WebGrease.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Helpers.xml
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Mvc.xml
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Optimization.xml
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Razor.xml
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.xml
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.Deployment.xml
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.Razor.xml
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\Newtonsoft.Json.xml
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\Antlr3.Runtime.pdb
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.Helpers.resources.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.Mvc.resources.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.Optimization.resources.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.Razor.resources.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.WebPages.resources.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.WebPages.Deployment.resources.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.WebPages.Razor.resources.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.csproj.CopyComplete
+D:\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.pdb
+D:\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.csproj.AssemblyReference.cache
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Compression.Base.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Licensing.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.OfficeChart.Base.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.OfficeChartToImageConverter.Wpf.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Presentation.Base.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.SfChart.WPF.dll
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Compression.Base.xml
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.OfficeChart.Base.xml
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.OfficeChartToImageConverter.Wpf.xml
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Presentation.Base.xml
+D:\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.SfChart.WPF.xml
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\Schulungstool.PJ.dll.config
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\Schulungstool.PJ.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\Schulungstool.PJ.pdb
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csc.exe
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csc.exe.config
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csc.rsp
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csi.exe
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csi.exe.config
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csi.rsp
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.AppContext.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Collections.Immutable.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Console.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Globalization.Calendars.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.IO.Compression.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.IO.FileSystem.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Net.Http.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Net.Sockets.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Reflection.Metadata.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.ValueTuple.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Xml.XPath.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\vbc.exe
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\vbc.exe.config
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\vbc.rsp
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\VBCSCompiler.exe
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\VBCSCompiler.exe.config
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\Antlr3.Runtime.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\Microsoft.Web.Infrastructure.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\Newtonsoft.Json.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Compression.Base.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Licensing.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.OfficeChart.Base.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.OfficeChartToImageConverter.Wpf.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Presentation.Base.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.SfChart.WPF.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Helpers.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Mvc.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Optimization.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Razor.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.Deployment.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.Razor.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\WebGrease.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Compression.Base.xml
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.OfficeChart.Base.xml
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.OfficeChartToImageConverter.Wpf.xml
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Presentation.Base.xml
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.SfChart.WPF.xml
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Helpers.xml
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Mvc.xml
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Optimization.xml
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Razor.xml
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.xml
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.Deployment.xml
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.Razor.xml
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\Newtonsoft.Json.xml
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\Antlr3.Runtime.pdb
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.Helpers.resources.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.Mvc.resources.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.Optimization.resources.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.Razor.resources.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.WebPages.resources.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.WebPages.Deployment.resources.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.WebPages.Razor.resources.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.csproj.AssemblyReference.cache
+E:\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.csproj.CoreCompileInputs.cache
+E:\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.csproj.CopyComplete
+E:\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.dll
+E:\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.pdb
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\Schulungstool.PJ.dll.config
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\Schulungstool.PJ.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\Schulungstool.PJ.pdb
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csc.exe
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csc.exe.config
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csc.rsp
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csi.exe
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csi.exe.config
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csi.rsp
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.AppContext.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Console.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.IO.Compression.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Net.Http.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Net.Sockets.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.ValueTuple.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\vbc.exe
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\vbc.exe.config
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\vbc.rsp
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\VBCSCompiler.exe
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\Antlr3.Runtime.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\Newtonsoft.Json.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Compression.Base.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Licensing.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.OfficeChart.Base.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.OfficeChartToImageConverter.Wpf.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Presentation.Base.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.SfChart.WPF.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Helpers.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Mvc.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Optimization.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Razor.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.Razor.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\WebGrease.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Compression.Base.xml
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.OfficeChart.Base.xml
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.OfficeChartToImageConverter.Wpf.xml
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Presentation.Base.xml
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.SfChart.WPF.xml
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Helpers.xml
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Mvc.xml
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Optimization.xml
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Razor.xml
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.xml
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.Razor.xml
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\Newtonsoft.Json.xml
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\Antlr3.Runtime.pdb
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.Helpers.resources.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.Mvc.resources.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.Optimization.resources.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.Razor.resources.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.WebPages.resources.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.WebPages.Deployment.resources.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.WebPages.Razor.resources.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.csproj.CoreCompileInputs.cache
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.csproj.CopyComplete
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.dll
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.pdb
+C:\Users\rene.jahn\Desktop\Praktikant\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.csproj.AssemblyReference.cache
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Schulungstool.PJ.dll.config
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Schulungstool.PJ.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Schulungstool.PJ.pdb
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csc.exe
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csc.exe.config
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csc.rsp
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csi.exe
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csi.exe.config
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csi.rsp
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.Managed.Core.targets
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.AppContext.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Collections.Immutable.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Console.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Globalization.Calendars.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.IO.Compression.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.IO.FileSystem.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Net.Http.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Net.Sockets.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Reflection.Metadata.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.ValueTuple.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Xml.XmlDocument.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Xml.XPath.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\vbc.exe
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\vbc.exe.config
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\vbc.rsp
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\VBCSCompiler.exe
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\VBCSCompiler.exe.config
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Antlr3.Runtime.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Microsoft.Web.Infrastructure.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Newtonsoft.Json.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Compression.Base.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Licensing.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.OfficeChart.Base.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.OfficeChartToImageConverter.Wpf.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Presentation.Base.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.SfChart.WPF.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Helpers.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Mvc.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Optimization.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Razor.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.Deployment.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.Razor.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\WebGrease.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Compression.Base.xml
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.OfficeChart.Base.xml
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.OfficeChartToImageConverter.Wpf.xml
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Presentation.Base.xml
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.SfChart.WPF.xml
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Helpers.xml
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Mvc.xml
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Optimization.xml
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Razor.xml
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.xml
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.Deployment.xml
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.Razor.xml
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Newtonsoft.Json.xml
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Antlr3.Runtime.pdb
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.Helpers.resources.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.Mvc.resources.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.Optimization.resources.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.Razor.resources.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.WebPages.resources.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.WebPages.Deployment.resources.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.WebPages.Razor.resources.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.csproj.AssemblyReference.cache
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.csproj.CoreCompileInputs.cache
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.csproj.CopyComplete
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.dll
+D:\new2\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.pdb
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Schulungstool.PJ.dll.config
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Schulungstool.PJ.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Schulungstool.PJ.pdb
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csc.exe
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csc.exe.config
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csc.rsp
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csi.exe
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csi.exe.config
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csi.rsp
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.Managed.Core.targets
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.AppContext.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Collections.Immutable.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Console.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Globalization.Calendars.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.IO.Compression.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.IO.FileSystem.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Net.Http.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Net.Sockets.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Reflection.Metadata.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.ValueTuple.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Xml.XmlDocument.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Xml.XPath.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\vbc.exe
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\vbc.exe.config
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\vbc.rsp
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\VBCSCompiler.exe
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\VBCSCompiler.exe.config
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Antlr3.Runtime.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Microsoft.Web.Infrastructure.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Newtonsoft.Json.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Compression.Base.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Licensing.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.OfficeChart.Base.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.OfficeChartToImageConverter.Wpf.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Presentation.Base.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.SfChart.WPF.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Helpers.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Mvc.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Optimization.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Razor.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.Deployment.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.Razor.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\WebGrease.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Compression.Base.xml
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.OfficeChart.Base.xml
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.OfficeChartToImageConverter.Wpf.xml
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Presentation.Base.xml
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.SfChart.WPF.xml
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Helpers.xml
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Mvc.xml
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Optimization.xml
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Razor.xml
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.xml
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.Deployment.xml
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.Razor.xml
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Newtonsoft.Json.xml
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Antlr3.Runtime.pdb
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.Helpers.resources.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.Mvc.resources.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.Optimization.resources.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.Razor.resources.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.WebPages.resources.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.WebPages.Deployment.resources.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.WebPages.Razor.resources.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.csproj.AssemblyReference.cache
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.csproj.CoreCompileInputs.cache
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.csproj.CopyComplete
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.dll
+C:\03_Projekte\Awarness Training\new2\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.pdb
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Schulungstool.PJ.dll.config
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Schulungstool.PJ.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Schulungstool.PJ.pdb
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csc.exe
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csc.exe.config
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csc.rsp
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csi.exe
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csi.exe.config
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csi.rsp
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.AppContext.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Console.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Net.Http.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\vbc.exe
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\vbc.exe.config
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\vbc.rsp
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Antlr3.Runtime.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Newtonsoft.Json.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Compression.Base.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Licensing.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.OfficeChart.Base.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.OfficeChartToImageConverter.Wpf.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Presentation.Base.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.SfChart.WPF.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Helpers.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Mvc.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Optimization.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Razor.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\WebGrease.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Compression.Base.xml
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.OfficeChart.Base.xml
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.OfficeChartToImageConverter.Wpf.xml
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Presentation.Base.xml
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.SfChart.WPF.xml
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Helpers.xml
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Mvc.xml
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Optimization.xml
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Razor.xml
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.xml
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Newtonsoft.Json.xml
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Antlr3.Runtime.pdb
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.Helpers.resources.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.Mvc.resources.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.Optimization.resources.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.Razor.resources.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.WebPages.resources.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.WebPages.Razor.resources.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.csproj.AssemblyReference.cache
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.csproj.CoreCompileInputs.cache
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.csproj.CopyComplete
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.dll
+C:\Users\Jakob Prem\Desktop\new2\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.pdb
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Schulungstool.PJ.dll.config
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Schulungstool.PJ.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Schulungstool.PJ.pdb
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csc.exe
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csc.exe.config
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csc.rsp
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csi.exe
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csi.exe.config
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csi.rsp
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.AppContext.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Console.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Net.Http.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\vbc.exe
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\vbc.exe.config
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\vbc.rsp
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Antlr3.Runtime.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Newtonsoft.Json.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Compression.Base.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Licensing.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.OfficeChart.Base.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.OfficeChartToImageConverter.Wpf.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Presentation.Base.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.SfChart.WPF.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Helpers.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Mvc.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Optimization.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Razor.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\WebGrease.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Compression.Base.xml
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.OfficeChart.Base.xml
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.OfficeChartToImageConverter.Wpf.xml
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Presentation.Base.xml
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.SfChart.WPF.xml
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Helpers.xml
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Mvc.xml
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Optimization.xml
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Razor.xml
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.xml
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Newtonsoft.Json.xml
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Antlr3.Runtime.pdb
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.Helpers.resources.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.Mvc.resources.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.Optimization.resources.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.Razor.resources.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.WebPages.resources.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.WebPages.Razor.resources.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.csproj.AssemblyReference.cache
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.csproj.CoreCompileInputs.cache
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.csproj.CopyComplete
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.dll
+C:\Users\Jakob Prem\Desktop\Backup\new2\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.pdb
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Schulungstool.PJ.dll.config
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Schulungstool.PJ.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Schulungstool.PJ.pdb
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csc.exe
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csc.exe.config
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csc.rsp
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csi.exe
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csi.exe.config
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\csi.rsp
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.AppContext.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Console.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Net.Http.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\vbc.exe
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\vbc.exe.config
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\vbc.rsp
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Antlr3.Runtime.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Newtonsoft.Json.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Compression.Base.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Licensing.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.OfficeChart.Base.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.OfficeChartToImageConverter.Wpf.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Presentation.Base.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.SfChart.WPF.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Helpers.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Mvc.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Optimization.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Razor.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\WebGrease.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Compression.Base.xml
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.OfficeChart.Base.xml
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.OfficeChartToImageConverter.Wpf.xml
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.Presentation.Base.xml
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Syncfusion.SfChart.WPF.xml
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Helpers.xml
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Mvc.xml
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Optimization.xml
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.Razor.xml
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.xml
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Newtonsoft.Json.xml
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Antlr3.Runtime.pdb
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.Helpers.resources.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.Mvc.resources.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.Optimization.resources.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.Razor.resources.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.WebPages.resources.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\de\System.Web.WebPages.Razor.resources.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.csproj.AssemblyReference.cache
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.csproj.CoreCompileInputs.cache
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.csproj.CopyComplete
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\obj\Debug\Schulungstool.PJ.pdb
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\AWSSDK.Core.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\AWSSDK.DynamoDBv2.dll
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\AWSSDK.Core.pdb
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\AWSSDK.Core.xml
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\AWSSDK.DynamoDBv2.pdb
+C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\bin\AWSSDK.DynamoDBv2.xml

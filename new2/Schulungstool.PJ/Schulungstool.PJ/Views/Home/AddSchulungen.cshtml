@@ -1,0 +1,54 @@
+﻿@*@model Schulungsbeurteilung.Models.TrainingCourse*@
+@{
+    ViewBag.Title = "Schulung bearbeiten";
+    var picturelist = ViewData["picturelist"] as List<string>;
+    var folderName = ViewData["folderName"] as string;
+    if (folderName == null)
+    {
+        folderName = "nix";
+    }
+
+}
+@section scripts{
+    <script src="~/wwwroot/js/ConfigEdit.js"></script>
+}
+@*@section styles {
+        <link rel="stylesheet" href="~/wwwroot/lib/font-awesome/css/all.min.css">
+    }*@
+<head>
+    <script src="~/Scripts/9.5.0-0.js" ssss></script>
+</head>
+
+<section class="pt-3 pb-2 px-2">
+
+    <div class="row my-2">
+        <div class="col-12 d-flex justify-content-end">
+            <input type="file" id="slideshowImageSelector" style="display: none;" accept=".pptx" data-entry-id="1" />
+            <button type="button" title="PowerPoint hochladen" class="btn btn-primary" onclick="document.getElementById('slideshowImageSelector').click();">
+                PowerPoint hochladen
+            </button>
+        </div>
+    </div>
+    <input type="text" id="folderName" />
+    <input type="file" id="addContentSelector" style="display: none;" accept=".pptx"
+           data-upload-url="@Url.Action("UploadContent", "Home", new { folderName = "folderName"})" data-entry-id="1" data- />      <!--<== Foldername sollte irgendeine Variable werden-->
+    <button type="button" title="Neuen Anhang hochladen" class="btn btn-primary" onclick="document.getElementById('addContentSelector').click();">
+        <i class="fas fa-plus-circle"></i>
+        Anhang hinzufügen
+    </button>
+    <button class="btn btn-primary" onclick="location.href = '@Url.Action("AddPowerPoint", "Home", new { picturelist = picturelist})'">Load Powerpoint </button>
+
+    <select class="form-control" id="exampleFormControlSelect1">
+        @if (picturelist != null)
+        {
+            foreach (var item in picturelist)
+            {
+                <option>@item</option>
+            }
+        }
+        <option>2</option>
+    </select>
+
+    <input value="@folderName"/>
+
+</section>
