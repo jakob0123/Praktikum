@@ -81,7 +81,7 @@
 </head>
 <body>
  
-    @using (Html.BeginForm("HomeAD", "Home", FormMethod.Post))
+    @using (Html.BeginForm("UploadContent", "Home", FormMethod.Post))
     {
         <table cellpadding="0" cellspacing="0">
             <tr>
@@ -115,13 +115,14 @@
             </tr>
 
             <tr>
-                <td>&nbsp;</td>
+                <td></td>
+                
                 <button type="button" title="Schulung auswählen" onclick="document.getElementById('addContentSelector').click();">
                     <i class="fas fa-plus-circle"></i>
                     Anhang hinzufügen
 
                 </button>
-                <td><input type="submit" value="Submit" onclick="location.href = '@Url.Action("HomeAD", "Home", new { picturelist = picturelist})'" /></td>
+                <td><input type="submit" value="Submit" onclick="location.href = '@Url.Action("UploadContent", "Home", new { picturelist = picturelist})'" /></td>
             </tr>
         </table>
 

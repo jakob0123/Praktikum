@@ -95,23 +95,7 @@ namespace Schulungstool.PJ.Controllers
         }
 
         [HttpPost]
-        public ActionResult HomeAD(SchulungsModel Schulung)
-        {
-            string schulungscreator = Schulung.Schulungscreator;
-            string schulungsname = Schulung.Schulungsname;
-            string typ = Schulung.Typ;
-            
-            return View();
-        }
-        #endregion
-        //[HttpPost]
-        //public ActionResult HomeAD(string FileName, string Schulungscreator, string Schulungsname)
-        //{
-        //    //ViewData["FileName"] = FileName;
-        //    return View();
-        //}
-        [HttpPost]
-        public ActionResult UploadContent(string folderName)
+        public ActionResult UploadContent(SchulungsModel Schulung)
         {
             List<string> picturelist = new List<string>();
             Random rd = new Random();
@@ -152,7 +136,20 @@ namespace Schulungstool.PJ.Controllers
             link.Add(@"https://www.youtube.com/watch?v=pa6scmN9bQc", "Folie1");
             ViewData["folderName"] = folderName;
             //return View("AddSchulungen");
-            return View(folderName);
+            string schulungscreator = Schulung.Schulungscreator;
+            string schulungsname = Schulung.Schulungsname;
+            string typ = Schulung.Typ;
+            
+            return View();
         }
+        #endregion
+        //[HttpPost]
+        //public ActionResult HomeAD(string FileName, string Schulungscreator, string Schulungsname)
+        //{
+        //    //ViewData["FileName"] = FileName;
+        //    return View();
+        //}
+        [HttpPost]
+
     }
 }    
