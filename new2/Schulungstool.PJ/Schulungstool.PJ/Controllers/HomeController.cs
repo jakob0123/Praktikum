@@ -11,6 +11,7 @@ using System.Diagnostics;
 using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
+using Schulungstool.PJ.Models.Formula;
 
 namespace Schulungstool.PJ.Controllers
 {
@@ -95,12 +96,19 @@ namespace Schulungstool.PJ.Controllers
         #region HomeADPage
         public ActionResult HomeAD()
         {
-            return View("HomeAD");
+            return View();
+        }
+
+        [HttpPost]
+        public ActionResult HomeAD(SchulungsModel Schulung)
+        {
+            string schulungscreator = Schulung.Schulungscreator;
+            string schulungsname = Schulung.Schulungsname;
+            string typ = Schulung.Typ;
+
+            return View();
         }
         #endregion
-          
-
-
 
         //[HttpPost]
         //public ActionResult HomeAD(string FileName, string Schulungscreator, string Schulungsname)
