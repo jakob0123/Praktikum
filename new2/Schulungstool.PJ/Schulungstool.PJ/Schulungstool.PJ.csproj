@@ -192,6 +192,7 @@
     <Content Include="wwwroot\Images\Folie8.PNG" />
     <Content Include="wwwroot\Images\Folie9.PNG" />
     <Content Include="wwwroot\js\ConfigEdit.js" />
+    <Content Include="wwwroot\js\getfileName.js" />
     <Content Include="wwwroot\js\site.js" />
     <Content Include="wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css" />
     <Content Include="wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css" />
@@ -2385,6 +2386,7 @@
     <Content Include="wwwroot\lib\font-awesome\webfonts\fa-v4compatibility.woff2" />
     <Content Include="wwwroot\css\bootstrap.css.map" />
     <Content Include="Views\Home\HomeAD.cshtml" />
+    <Content Include="Views\Home\Test.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Start\" />

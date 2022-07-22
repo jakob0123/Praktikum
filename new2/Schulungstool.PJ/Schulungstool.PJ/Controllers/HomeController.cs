@@ -57,12 +57,12 @@ namespace Schulungstool.PJ.Controllers
         }
         #endregion
         #region AddPowerPointPage
-        public ActionResult AddPowerPoint()//List<string> picturelist
+        public ActionResult AddPowerPoint(string path4)//List<string> picturelist
         {
             string workingDirectory = Environment.CurrentDirectory;
             //Open PowerPoint Presentation with SYNCFUSION!
             List<string> picturelist = new List<string>();
-            using (var pptxDoc = Presentation.Open(@"C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\wwwroot\Images\ABSCHLUSS-KLASSE VON.pptx"))
+            using (var pptxDoc = Presentation.Open(path4))
             {
 
                 var result = Path.GetFileName(pptxDoc.ToString());
@@ -75,10 +75,11 @@ namespace Schulungstool.PJ.Controllers
                     //Define Foldername
                     string slideName = "slide" + i.ToString() + ".png";
                     //Create directory
-                    string path = @"C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\wwwroot\Images\" + result + @"\";
+                    string path2 = Path.Combine(System.Web.HttpContext.Current.Server.MapPath(@"~\wwwroot\Images\"));
+                    string path = path2 + result + @"\";
                     DirectoryInfo di = Directory.CreateDirectory(path);
                     //Saves the image as file
-                    image.Save(@"C:\Users\Jakob Prem\Desktop\Backup - Kopie (2)\new2\Schulungstool.PJ\Schulungstool.PJ\wwwroot\Images\" + result + @"\" + slideName);
+                    image.Save(path2 + result + @"\" + slideName);
                     picturelist.Add("/wwwroot/Images/" + result + "/" + slideName);
                 }
                 pptxDoc.Close();
@@ -94,27 +95,39 @@ namespace Schulungstool.PJ.Controllers
         }
         #endregion
         #region HomeADPage
+        [HttpGet]
         public ActionResult HomeAD()
         {
             return View();
         }
 
         [HttpPost]
-        public ActionResult HomeAD(SchulungsModel Schulung)
+        public ActionResult HomeAD(SchulungsModel Schulung, HttpPostedFileBase postedFile)
         {
             string schulungscreator = Schulung.Schulungscreator;
             string schulungsname = Schulung.Schulungsname;
             string typ = Schulung.Typ;
-            
-            return View();
+            string path = Server.MapPath("~/Uploads/");
+            var path1="";
+            if (!Directory.Exists(path))
+            {
+                Directory.CreateDirectory(path);
+            }
+
+            if (postedFile != null)
+            {
+                string fileName = Path.GetFileName(postedFile.FileName);
+                path1 = path+ fileName;
+                postedFile.SaveAs(path1);
+                ViewBag.Message += string.Format("<b>{0}</b> uploaded.<br />", fileName);
+                
+            }
+
+            AddPowerPoint(path1);
+
+
+            return View("AddPowerPoint");
         }
         #endregion
-
-        //[HttpPost]
-        //public ActionResult HomeAD(string FileName, string Schulungscreator, string Schulungsname)
-        //{
-        //    //ViewData["FileName"] = FileName;
-        //    return View();
-        //}
     }
 }    

@@ -1,16 +1,18 @@
 ﻿@model Schulungstool.PJ.Models.Formula.SchulungsModel
 
+@{
+    Layout = null;
+}
 @*@{
         var filename = ViewData["FileName"];
         var schulungcreator = ViewData["Schulungname"];
         var schulungname = ViewData["Schulungscreator"];
     }*@
+
 <!DOCTYPE html>
 <html>
 <head>
-    <script>
-        request.getRealPath(request.getParameter("datei");
-    </script>
+    <script src="~/wwwroot/js/getfileName.js"></script>
     <script src="~/wwwroot/js/Select.js"></script>
     <link rel="stylesheet" href="~/wwwroot/css/bootstrap.css">
     <style>
@@ -68,10 +70,21 @@
             border: 2px solid #e7e7e7;
         }
     </style>
+    <style type="text/css">
+        body {
+            font-family: Arial;
+            font-size: 10pt;
+        }
+
+        .error {
+            color: red;
+        }
+    </style>
+</head>
 </head>
 <body>
 
-    @using (Html.BeginForm("HomeAD", "Home", FormMethod.Post))
+    @using (Html.BeginForm("HomeAD", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
     {
         <table cellpadding="0" cellspacing="0">
             <tr>
@@ -98,58 +111,21 @@
                 </td>
             </tr>
             <tr>
+                <td>
+                    <span>Select File:</span>
+                    @Html.TextBoxFor(m => m.PostedFile, new { type = "file" })
+                    <br />
+                    @Html.ValidationMessageFor(m => m.PostedFile, "", new { @class = "error" })
+                    <span style="color:green">@Html.Raw(ViewBag.Message)</span>
+                    }
+                </td>
+            </tr>
+            <tr>
                 <td></td>
                 <td><input type="submit" value="Submit" /></td>
             </tr>
         </table>
     }
-
-    @*@using (Html.BeginForm("HomeAD", "Home", FormMethod.Post))*@
-    {
-    @*<table>
-            <tr>
-                <td>
-                    <label>Name der Schulung:</label>
-                </td>
-                <td>
-                    <input type="text" name="UserName" value="@schulungname" />
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <label>Ersteller:</label>
-                </td>
-                <td>
-                    <input type="text" name="s" value="@schulungcreator" />
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <label>Schulung/Unterweisung auswählen:</label>
-                </td>
-                <td>
-                    <input type="file" name="ss" value="@filename" accept=".pptx" />
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <label>Typ:</label>
-                </td>
-                <td>
-                    <select>
-                        <option>Schulung</option>
-                        <option>Unterweisung</option>
-                    </select>
-                </td>
-            </tr>
-            <tr>
-                <td>&nbsp;</td>
-                <td> <input type="submit" value="Veröffentlichen" class="btn btn-outline-primary" /></td>
-            </tr>
-        </table>*@
-    }
-
-
 
 
     <br />
@@ -159,136 +135,35 @@
             Benutzer:
             <td>
                 <p class="auto">
-                    <input name="whishlist[]" type="checkbox">  Krug Nikolaus <br>
-                    <input name="whishlist[]" type="checkbox">  Rene Jahn<br>
-                    <input name="whishlist[]" type="checkbox">  Beate Wallner <br>
-                    <input name="whishlist[]" type="checkbox">  Robert Fandler <br>
-                    <input name="whishlist[]" type="checkbox">  Dietmar Nederl <br>
-                    <input name="whishlist[]" type="checkbox">  Praktikant <br>
-                    <input name="whishlist[]" type="checkbox">  Krug Nikolaus <br>
-                    <input name="whishlist[]" type="checkbox">  Rene Jahn<br>
-                    <input name="whishlist[]" type="checkbox">  Beate Wallner <br>
-                    <input name="whishlist[]" type="checkbox">  Robert Fandler <br>
-                    <input name="whishlist[]" type="checkbox">  Dietmar Nederl <br>
-                    <input name="whishlist[]" type="checkbox">  Praktikant <br>
+                    <input name="whishlist[]" type="checkbox">  Krug Nikolaus
+                    <br>
+                    <input name="whishlist[]" type="checkbox">  Rene Jahn
+                    <br>
+                    <input name="whishlist[]" type="checkbox">  Beate Wallner
+                    <br>
+                    <input name="whishlist[]" type="checkbox">  Robert Fandler
+                    <br>
+                    <input name="whishlist[]" type="checkbox">  Dietmar Nederl
+                    <br>
+                    <input name="whishlist[]" type="checkbox">  Praktikant
+                    <br>
+                    <input name="whishlist[]" type="checkbox">  Krug Nikolaus
+                    <br>
+                    <input name="whishlist[]" type="checkbox">  Rene Jahn
+                    <br>
+                    <input name="whishlist[]" type="checkbox">  Beate Wallner
+                    <br>
+                    <input name="whishlist[]" type="checkbox">  Robert Fandler
+                    <br>
+                    <input name="whishlist[]" type="checkbox">  Dietmar Nederl
+                    <br>
+                    <input name="whishlist[]" type="checkbox">  Praktikant
+                    <br>
                 </p>
             </td>
         </tr>
     </table>
     <hr />
-    @*@using (Html.BeginForm("Index", "Home", FormMethod.Post))
-        {
-            <table cellpadding="0" cellspacing="0">
-                <tr>
-                    <th colspan="2" align="center">Person Details</th>
-                </tr>
-                <tr>
-                    <td>PersonId: </td>
-                    <td>
-                        @Html.TextBoxFor(m => m.PersonId)
-                    </td>
-                </tr>
-                <tr>
-                    <td>Name: </td>
-                    <td>
-                        @Html.TextBoxFor(m => m.Name)
-                    </td>
-                </tr>
-                <tr>
-                    <td>Gender: </td>
-                    <td>
-                        @Html.DropDownListFor(m => m.Gender, new List<SelectListItem>
-                       { new SelectListItem{Text="Male", Value="M"},
-                         new SelectListItem{Text="Female", Value="F"}}, "Please select")
-                    </td>
-                </tr>
-                <tr>
-                    <td>City: </td>
-                    <td>
-                        @Html.TextBoxFor(m => m.City)
-                    </td>
-                </tr>
-                <tr>
-                    <td></td>
-                    <td><input type="submit" value="Submit" /></td>
-                </tr>
-            </table>
-        }*@
-    @*<form name="form1" method="post" enctype="multipart/form-data" action="HomeAD">
-            <div>
-                <label for="caption">Image Caption</label>
-                <input name="caption" type="text" />
-            </div>
-            <div>
-                <label for="image1">Image File</label>
-                <input name="image1" type="file" />
-            </div>
-            <div>
-                <input type="submit" value="Submit" />
-            </div>
-        </form>*@
-    @*<div class="container">
-        <div class="row">
-            <div class="align-content-lg-center">
-                <div class="input-group input-group-lg">
-                    <label>Name der Schulung:</label>
-                </div>
-            </div>
-            <div class="table-responsive-sm">
-                <div class="paddding">
-                    <input type="file" name="spind2" value="" />
-
-                </div>
-            </div>
-        </div>
-        </div>*@
-    @*<div class="container">
-            <div class="row">
-                <div class="align-content-lg-center">
-                    <div class="input-group input-group-lg">
-                        <span class="s" id="inputGroup-sizing-lg"> <label>Ersteller:</label></span>
-                    </div>
-                </div>
-                <div class="table-responsive-sm">
-                    <div class="paddding">
-                        <input type="text" name="spind" value="" />
-
-                    </div>
-                </div>
-            </div>
-        </div>*@
-    @*<div class="container">
-            <div class="row">
-                <div class="align-content-lg-center">
-                    <div class="input-group input-group-lg">
-                        <span class="s" id="inputGroup-sizing-lg"> <label>Schulung/Unterweisung auswählen:</label></span>
-                    </div>
-                </div>
-                <div class="table-responsive-sm">
-                    <div class="paddding">
-                        <input type="file" name="spind2" value="" />
-
-                    </div>
-                </div>
-            </div>
-        </div>*@
-    @*<div class="container">
-            <div class="row">
-                <div class="align-content-lg-center">
-                    <div class="input-group input-group-lg">
-                        <span class="s" id="inputGroup-sizing-lg" width="50%"><label>Typ:</label></span>
-                    </div>
-                </div>
-                <div class="table-responsive-sm">
-                    <div class="paddding">
-                        <select>
-                            <option>Schulung</option>
-                            <option>Unterweisung</option>
-                        </select>
-
-                    </div>
-                </div>
-            </div>
-        </div>*@
 </body>
+
 </html>
