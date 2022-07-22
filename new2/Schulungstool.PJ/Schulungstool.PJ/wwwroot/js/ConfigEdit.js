@@ -40,7 +40,7 @@ $(document).ready(function () {
                 xhr.setRequestHeader("Content-type", contentType);
                 xhr.setRequestHeader("file-name", fileToRead.name);
 
-                xhr.send(fileToRead);
+                xhr.send(fileToRead);*/
             };
 
             reader.readAsDataURL(fileInput.files[0]);

@@ -80,7 +80,7 @@
     </style>
 </head>
 <body>
- 
+
     @using (Html.BeginForm("UploadContent", "Home", FormMethod.Post))
     {
         <table cellpadding="0" cellspacing="0">
@@ -109,15 +109,13 @@
             </tr>
             <tr>
                 <td>
-
-
                 </td>
             </tr>
 
             <tr>
                 <td></td>
-                
-                <button type="button" title="Schulung auswählen" onclick="document.getElementById('addContentSelector').click();">
+                <input type="file" />
+                <button type="button" title="Schulung auswählen" onclick="document.getElementById('addContentSelectorA').click();">
                     <i class="fas fa-plus-circle"></i>
                     Anhang hinzufügen
 
@@ -135,33 +133,33 @@
                 Benutzer:
                 <td>
                     <p class="auto">
-                <td>
-                </td>
-                <input name="whishlist[]" type="checkbox">  Krug Nikolaus
-                <br>
-                <input name="whishlist[]" type="checkbox">  Rene Jahn
-                <br>
-                <input name="whishlist[]" type="checkbox">  Beate Wallner
-                <br>
-                <input name="whishlist[]" type="checkbox">  Robert Fandler
-                <br>
-                <input name="whishlist[]" type="checkbox">  Dietmar Nederl
-                <br>
-                <input name="whishlist[]" type="checkbox">  Praktikant
-                <br>
-                <input name="whishlist[]" type="checkbox">  Krug Nikolaus
-                <br>
-                <input name="whishlist[]" type="checkbox">  Rene Jahn
-                <br>
-                <input name="whishlist[]" type="checkbox">  Beate Wallner
-                <br>
-                <input name="whishlist[]" type="checkbox">  Robert Fandler
-                <br>
-                <input name="whishlist[]" type="checkbox">  Dietmar Nederl
-                <br>
-                <input name="whishlist[]" type="checkbox">  Praktikant
-                <br>
-                </p>
+
+
+                        <input name="whishlist[]" type="checkbox">  Krug Nikolaus
+                        <br>
+                        <input name="whishlist[]" type="checkbox">  Rene Jahn
+                        <br>
+                        <input name="whishlist[]" type="checkbox">  Beate Wallner
+                        <br>
+                        <input name="whishlist[]" type="checkbox">  Robert Fandler
+                        <br>
+                        <input name="whishlist[]" type="checkbox">  Dietmar Nederl
+                        <br>
+                        <input name="whishlist[]" type="checkbox">  Praktikant
+                        <br>
+                        <input name="whishlist[]" type="checkbox">  Krug Nikolaus
+                        <br>
+                        <input name="whishlist[]" type="checkbox">  Rene Jahn
+                        <br>
+                        <input name="whishlist[]" type="checkbox">  Beate Wallner
+                        <br>
+                        <input name="whishlist[]" type="checkbox">  Robert Fandler
+                        <br>
+                        <input name="whishlist[]" type="checkbox">  Dietmar Nederl
+                        <br>
+                        <input name="whishlist[]" type="checkbox">  Praktikant
+                        <br>
+                    </p>
                 </td>
             </tr>
         </table>
